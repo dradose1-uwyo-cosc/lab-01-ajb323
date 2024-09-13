@@ -1,0 +1,2 @@
+firstname="BJB"
+print(firstname)
